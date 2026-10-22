@@ -1,29 +1,59 @@
-# Ramsagar Chandravanshi — Portfolio
+# Ramsagar-Portfolio
 
-Welcome to my portfolio! I'm a **Full Stack MERN Developer** passionate about building responsive, user-friendly web applications.
+My personal developer portfolio showcasing my skills, projects, and journey as a Full Stack MERN Developer.
+
+## About Me
+
+I'm a Computer Science Engineering graduate/final-year engineering student passionate about building modern, responsive, and user-friendly web applications using the MERN stack.
 
 ## Tech Stack
-- **Frontend:** React.js, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **Database:** MongoDB
-- **Tools & Services:** Git, GitHub, Cloudinary
 
-## Featured Project
-### Kanhaiya Mobile E-Commerce
-A live e-commerce website developed for a real mobile retail business.
+- React.js
+- JavaScript
+- HTML5 & CSS3
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
 
-- New and second-hand smartphone listings
-- Product search and filtering
-- Admin product management
-- Cloudinary image uploads
-- Phone booking and delivery tracking
-- Razorpay integration (testing phase)
+## Portfolio Sections
 
-**Live Website:** https://kanhaiyamobile.online  
-**GitHub Repository:** https://github.com/Ramsagar705/Kanhaiya-Mobile
+- **About Me** — Introduction and background
+- **Skills** — Technologies and tools I work with
+- **Projects** — My development projects and live demos
+- **Education** — Academic background
+- **Contact** — Ways to connect with me
 
-## Connect With Me
+## Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Ramsagar705/Ramsagar-portfolio.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Ramsagar-Portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Contact
+
 - **GitHub:** https://github.com/Ramsagar705
-- **Portfolio:** Add your deployed portfolio URL here
 
-Thanks for visiting my portfolio!
+---
+
+Built with React and Vite.
