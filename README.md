@@ -4,7 +4,7 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 
 ## About Me
 
-I'm a Computer Science Engineering graduate/final-year engineering student passionate about building modern, responsive, and user-friendly web applications using the MERN stack.
+I'm a Computer Science Engineering graduate passionate about building modern, responsive, and user-friendly web applications using the MERN stack.
 
 ## Tech Stack
 
@@ -52,7 +52,8 @@ I'm a Computer Science Engineering graduate/final-year engineering student passi
 
 ## Contact
 
-- **GitHub:** https://github.com/Ramsagar705
+- **GitHub:** [Ramsagar705](https://github.com/Ramsagar705)
+- **Live Portfolio:** [ramsagar-portfolio.vercel.app](https://ramsagar-portfolio.vercel.app/)
 
 ---
 
