@@ -22,7 +22,7 @@ const Hero = () => {
                     <div className='flex flex-wrap justify-center md:justify-start gap-4'>
                         <a href="#projects" aria-label="View projects" className='px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration-300'>View Work</a>
                         <a href="#contact" aria-label="Contact me" className='px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition duration-300'>Contact Me</a>
-                        <a href='/resume.pdf' download='Ramsagar-Fullstack-Resume.pdf' className='inline-flex items-center gap-2 px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 hover:-translate-y-0.5 transition duration-300'>
+                        <a href='/Ramsagar-Fullstack-Resume.pdf' download='Ramsagar-Fullstack-Resume.pdf' className='inline-flex items-center gap-2 px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 hover:-translate-y-0.5 transition duration-300'>
                             <FaDownload aria-hidden='true' />
                             Download Resume
                         </a>
